@@ -4,5 +4,14 @@ Current traffic infrastructure for vehicle security and surveillance is not so g
 <br />
 We have built smart camera using state of the art deep learning and edge intelligence. We have optimized code and trained model for running prediction or inference on the edge devices (at the smart camera).  All of the detection and recognition task will run on the smart camera. We used Intel Movidius compute device for DL model inference. Smart camera will give real-time warning for unregistered vehicle, traffic rule violation and accident, to traffic enforcement authorities and medical emergency response teams.
 <br />
+
 This smart camera will solve traffic security issues and surveillance problem in real-time making 'Smart Transport Infrastructure' . This camera can be used in a lot of application areas related to  vehicle security and surveillance.
 <br />
+
+# What is IRTSSW
+This is the state  of the art artificial intellince harware and software platform covering multi-stage solution.
+This cover following component.
+1. Vehicle Number plate text recognition
+2. Traffic Acitivity recognition
+3. Traffic violation detection
+4. Warning and monitoring system
