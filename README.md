@@ -15,3 +15,12 @@ This cover following component.
 2. Traffic Acitivity recognition
 3. Traffic violation detection
 4. Warning and monitoring system
+
+# Training 
+We created 4000 traffic dataset with diffrent camera condition and environment. __
+### Step of multi stage traning
+1. AI model for Vehicle bounding box detection
+2. AI model for Number plate bounding box deteection
+3. AI model for Plate text recognition
+4. AI model for Traffic activity recognition
+
