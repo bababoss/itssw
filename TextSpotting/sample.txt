@@ -1,0 +1,660 @@
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame327.jpg,DL10CS7303
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame482.jpg,DL 1CV 0393
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame297.jpg,DL9CAC6377
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame6.jpg,DL 12 C 0327
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame528.jpg,HR 72 B 7402
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame421.jpg,HR 47 9693
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame677.jpg,KA51MB0345
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame429.jpg,DL 1CV 0393
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame725.jpg,HR51 U 1810
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame531.jpg,HR 72 B 7402
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame348.jpg,DL10CS7303
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame82.jpg,PB02DA9095
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame280.jpg,HR 55 X 9791
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame88.jpg,DL 8 CT 8204
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame209.jpg,DL 4C AB 3560
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame124.jpg,DL 3C AJ 4450
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame736.jpg,HR51 U 1810
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame20.jpg,HR 26 CC 7060
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame562.jpg,HR 26 CV 3412
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame517.jpg,HR26BE0133
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame246.jpg,MP07CB3200
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame14.jpg,DL 12 C 0327
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame810.jpg,UP 14 DJ 2433
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame559.jpg,HR 26 CV 3412
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame19.jpg,HR 26 CC 7060
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame603.jpg,HR20AD1347
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame573.jpg,HR20AD1347
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame743.jpg,DL3CAB7825
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame521.jpg,HR26BE0133
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame96.jpg,DL 8 CT 8204
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame203.jpg,DL 4C AB 3560
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame81.jpg,PB02DA9095
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame809.jpg,UP 14 DJ 2433
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame683.jpg,HR51 U 1810
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame698.jpg,HR26BQ5724
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame840.jpg,MH 14 CS 7807
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame375.jpg,DL 10CS7303
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame350.jpg,DL 10CS7303
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame130.jpg,DL 3C AJ 4450
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame367.jpg,DL 10CS7303
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame445.jpg,DL 1CV 0393
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame416.jpg,HR 47 9693
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame798.jpg,PB07AM0411
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame385.jpg,DL 10CS7303
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame24.jpg,HR26CC7060
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame757.jpg,HR26DF4063
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame636.jpg,HR26BE0133
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame308.jpg,HR51 BP 5341
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame835.jpg,HR51 U 1810
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame192.jpg,HR 26 CG 34448
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame396.jpg,DL 1CV 0393
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame37.jpg,DL 1RTB0231
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame190.jpg,HR 26 CG 34448
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame608.jpg,HR20AD1347
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame175.jpg,DL 6CL 8516
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame592.jpg,DL 1N A 1003
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame816.jpg,UP 14 DJ 2433
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame732.jpg,HR51 U 1810
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame83.jpg,PB02DA9095
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame349.jpg,DL10CS7303
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame413.jpg,HR 47 9693
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame740.jpg,HR51AE0589
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame783.jpg,DL 3C AB 7825
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame752.jpg,DL3CAB7825
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame346.jpg,DL10CS7303
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame602.jpg,DL 1N A 1003
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame317.jpg,HR 26 BF 2151
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame366.jpg,DL 10CS7303
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame400.jpg,DL 1CV 0393
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame302.jpg,DL9CAC6377
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame671.jpg,KA51MB0345
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame177.jpg,DL 6CL 8516
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame443.jpg,DL 1CV 0393
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame282.jpg,HR 55 X 9791
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame26.jpg,HR26CC7060
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame430.jpg,DL 1CV 0393
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame625.jpg,HR 26 CU 4693
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame604.jpg,HR20AD1347
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame606.jpg,HR20AD1347
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame290.jpg,HR 55 X 9791
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame231.jpg,HR 26 CH 0707
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame44.jpg,DL 1RTB0231
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame520.jpg,HR26BE0133
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame822.jpg,UP 14 DJ 2433
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame648.jpg,HR26B12201
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame167.jpg,DL 8 CY 8204
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame762.jpg,HR26DF4063
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame751.jpg,DL3CAB7825
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame458.jpg,DL 1CV 0393
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame832.jpg,HR51 U 1810
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame800.jpg,PB07AM0411
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame303.jpg,DL9CAC6377
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame749.jpg,DL3CAB7825
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame201.jpg,DL 4C AB 3560
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame345.jpg,DL10CS7303
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame106.jpg,DL 8 CY 8204
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame431.jpg,DL 1CV 0393
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame129.jpg,DL 3C AJ 4450
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame453.jpg,DL 1CV 0393
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame778.jpg,DL 3C AB 7825
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame315.jpg,HR 26 BF 2151
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame647.jpg,HR26B12201
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame207.jpg,DL 4C AB 3560
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame724.jpg,HR51 U 1810
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame766.jpg,HR26DF4063
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame272.jpg,DL 1R TA 5069
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame118.jpg,HR 26 CG 3448
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame493.jpg,DL 1CV 0393
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame566.jpg,DL2C Z 5393
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame529.jpg,HR 72 B 7402
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame541.jpg,HR 72 B 7402
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame224.jpg,HR26CB9669
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame412.jpg,HR 47 9693
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame815.jpg,UP 14 DJ 2433
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame548.jpg,KA51MB0345
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame418.jpg,HR 47 9693
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame824.jpg,HR51 U 1810
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame861.jpg,UP 15 CN 5555
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame347.jpg,DL10CS7303
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame708.jpg,HR26BQ5724
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame205.jpg,DL 4C AB 3560
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame819.jpg,UP 14 DJ 2433
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame53.jpg,HR26C09598
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame271.jpg,DL 1R TA 5069
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame170.jpg,DL 8 CY 8204
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame398.jpg,DL 1CV 0393
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame449.jpg,DL 1CV 0393
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame806.jpg,PB07AM0411
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame325.jpg,DL10CS7303
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame17.jpg,HR 26 CC 7060
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame295.jpg,DL9CAC6377
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame836.jpg,HR51 U 1810
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame825.jpg,HR51 U 1810
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame487.jpg,DL 1CV 0393
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame306.jpg,DL9CAC6377
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame25.jpg,HR26CC7060
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame323.jpg,DL10CS7303
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame667.jpg,HR20AD1347
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame435.jpg,DL 1CV 0393
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame90.jpg,DL 8 CT 8204
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame399.jpg,DL 1CV 0393
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame296.jpg,DL9CAC6377
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame831.jpg,HR51 U 1810
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame881.jpg,UP 15 CN 5555
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame338.jpg,DL10CS7303
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame634.jpg,HR26BE0133
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame374.jpg,DL 10CS7303
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame681.jpg,KA51MB0345
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame575.jpg,HR20AD1347
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame341.jpg,DL10CS7303
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame750.jpg,DL3CAB7825
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame673.jpg,KA51MB0345
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame373.jpg,DL 10CS7303
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame519.jpg,HR26BE0133
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame614.jpg,HR20AD1347
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame286.jpg,HR 55 X 9791
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame497.jpg,DL 1CV 0393
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame169.jpg,DL 8 CY 8204
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame414.jpg,HR 47 9693
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame259.jpg,MP07CB3200
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame372.jpg,DL 10CS7303
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame305.jpg,DL9CAC6377
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame601.jpg,DL 1N A 1003
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame675.jpg,KA51MB0345
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame161.jpg,DL 8 CY 8204
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame128.jpg,DL 3C AJ 4450
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame779.jpg,DL 3C AB 7825
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame726.jpg,HR51 U 1810
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame454.jpg,DL 1CV 0393
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame888.jpg,UP 15 CN 5555
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame489.jpg,DL 1CV 0393
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame821.jpg,UP 14 DJ 2433
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame230.jpg,HR 26 CH 0707
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame754.jpg,DL3CAB7825
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame386.jpg,DL 10CS7303
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame193.jpg,HR 26 CG 34448
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame680.jpg,KA51MB0345
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame886.jpg,UP 15 CN 5555
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame512.jpg,HR26BE0133
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame387.jpg,DL 10CS7303
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame38.jpg,DL 1RTB0231
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame326.jpg,DL10CS7303
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame204.jpg,DL 4C AB 3560
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame696.jpg,HR26BQ5724
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame828.jpg,HR51 U 1810
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame79.jpg,PB02DA9095
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame351.jpg,DL 10CS7303
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame12.jpg,DL 12 C 0327
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame188.jpg,HR 26 CG 34448
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame526.jpg,HR26BE0133
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame735.jpg,HR51 U 1810
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame391.jpg,DL 1CV 0393
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame527.jpg,HR 72 B 7402
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame111.jpg,DL 8 CT 8204
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame179.jpg,DL 6CL 8516
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame220.jpg,UP24 M 5566
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame411.jpg,HR 47 9693
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame674.jpg,KA51MB0345
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame491.jpg,DL 1CV 0393
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame352.jpg,DL 10CS7303
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame830.jpg,HR51 U 1810
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame843.jpg,MH 14 CS 7807
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame718.jpg,HR51 U 1810
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame668.jpg,KA51MB0345
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame628.jpg,HR 26 CU 4693
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame191.jpg,HR 26 CG 34448
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame288.jpg,HR 55 X 9791
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame761.jpg,HR26DF4063
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame21.jpg,HR 26 CC 7060
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame276.jpg,DL 1R TA 5069
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame143.jpg,DL 9C Y 4835
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame125.jpg,DL 3C AJ 4450
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame101.jpg,DL 8 CY 8204
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame456.jpg,DL 1CV 0393
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame249.jpg,MP07CB3200
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame817.jpg,UP 14 DJ 2433
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame287.jpg,HR 55 X 9791
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame547.jpg,HR 72 B 7402
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame484.jpg,DL 1CV 0393
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame417.jpg,HR 47 9693
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame599.jpg,DL 1N A 1003
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame765.jpg,HR26DF4063
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame522.jpg,HR26BE0133
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame343.jpg,DL10CS7303
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame404.jpg,DL 1CV 0393
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame498.jpg,DL 1CV 0393
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame242.jpg,MP07CB3200
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame160.jpg,DL 8 CY 8204
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame595.jpg,DL 1N A 1003
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame432.jpg,DL 1CV 0393
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame730.jpg,HR51 U 1810
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame35.jpg,DL 1RTB0231
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame593.jpg,DL 1N A 1003
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame336.jpg,DL10CS7303
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame620.jpg,HR20AD1347
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame381.jpg,DL 10CS7303
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame853.jpg,UP 15 CN 5555
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame554.jpg,KA51MB0345
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame857.jpg,UP 15 CN 5555
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame298.jpg,DL9CAC6377
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame11.jpg,DL 12 C 0327
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame274.jpg,DL 1R TA 5069
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame464.jpg,DL 1CV 0393
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame759.jpg,HR26DF4063
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame370.jpg,DL 10CS7303
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame176.jpg,DL 6CL 8516
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame285.jpg,HR 55 X 9791
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame617.jpg,HR20AD1347
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame699.jpg,HR26BQ5724
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame703.jpg,HR26BQ5724
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame786.jpg,DL 3C AB 7825
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame499.jpg,DL 1CV 0393
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame243.jpg,MP07CB3200
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame533.jpg,HR 72 B 7402
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame145.jpg,DL 9C Y 4835
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame862.jpg,UP 15 CN 5555
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame217.jpg,UP24 M 5566
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame241.jpg,MP07CB3200
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame797.jpg,PB07AM0411
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame197.jpg,DL 4C AB 3560
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame589.jpg,DL 1N A 1003
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame9.jpg,DL 12 C 0327
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame52.jpg,HR26C09598
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame313.jpg,HR 26 BF 2151
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame328.jpg,DL10CS7303
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame159.jpg,DL 8 CY 8204
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame734.jpg,HR51 U 1810
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame721.jpg,HR51 U 1810
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame322.jpg,DL10CS7303
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame590.jpg,DL 1N A 1003
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame685.jpg,HR51 U 1810
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame594.jpg,DL 1N A 1003
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame477.jpg,DL 1CV 0393
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame422.jpg,HR 47 9693
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame485.jpg,DL 1CV 0393
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame415.jpg,HR 47 9693
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame378.jpg,DL 10CS7303
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame189.jpg,HR 26 CG 34448
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame619.jpg,HR20AD1347
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame516.jpg,HR26BE0133
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame16.jpg,HR 26 CC 7060
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame3.jpg,DL 12 C 0327
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame568.jpg,DL2C Z 5393
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame729.jpg,HR51 U 1810
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame225.jpg,HR26CB9669
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame490.jpg,DL 1CV 0393
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame607.jpg,HR20AD1347
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame549.jpg,KA51MB0345
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame72.jpg,HR26C09598
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame676.jpg,KA51MB0345
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame342.jpg,DL10CS7303
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame202.jpg,DL 4C AB 3560
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame525.jpg,HR26BE0133
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame300.jpg,DL9CAC6377
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame253.jpg,DL 12A 2177
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame480.jpg,DL 1CV 0393
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame705.jpg,HR26BQ5724
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame702.jpg,HR26BQ5724
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame561.jpg,HR 26 CV 3412
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame530.jpg,HR 72 B 7402
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame777.jpg,DL 3C AB 7825
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame811.jpg,UP 14 DJ 2433
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame605.jpg,HR20AD1347
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame463.jpg,DL 1CV 0393
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame700.jpg,HR26BQ5724
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame887.jpg,UP 15 CN 5555
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame442.jpg,DL 1CV 0393
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame686.jpg,HR51 U 1810
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame813.jpg,UP 14 DJ 2433
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame294.jpg,DL9CAC6377
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame799.jpg,PB07AM0411
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame782.jpg,DL 3C AB 7825
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame727.jpg,HR51 U 1810
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame185.jpg,HR 26 CG 34448
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame98.jpg,DL 8 CT 8204
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame513.jpg,HR26BE0133
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame142.jpg,DL 9C Y 4835
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame247.jpg,MP07CB3200
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame180.jpg,DL 6CL 8516
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame178.jpg,DL 6CL 8516
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame609.jpg,HR20AD1347
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame682.jpg,HR51 U 1810
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame388.jpg,DL 10CS7303
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame755.jpg,DL3CAB7825
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame99.jpg,DL 8 CT 8204
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame494.jpg,DL 1CV 0393
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame450.jpg,DL 1CV 0393
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame187.jpg,HR 26 CG 34448
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame860.jpg,UP 15 CN 5555
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame627.jpg,HR 26 CU 4693
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame644.jpg,HR26B12201
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame728.jpg,HR51 U 1810
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame97.jpg,DL 8 CT 8204
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame440.jpg,DL 1CV 0393
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame39.jpg,DL 1RTB0231
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame567.jpg,DL2C Z 5393
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame446.jpg,DL 1CV 0393
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame165.jpg,DL 8 CY 8204
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame438.jpg,DL 1CV 0393
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame329.jpg,DL10CS7303
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame283.jpg,HR 55 X 9791
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame733.jpg,HR51 U 1810
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame95.jpg,DL 8 CT 8204
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame851.jpg,UP 15 CN 5555
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame560.jpg,HR 26 CV 3412
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame218.jpg,UP24 M 5566
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame597.jpg,DL 1N A 1003
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame200.jpg,DL 4C AB 3560
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame770.jpg,HR26DF4063
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame301.jpg,DL9CAC6377
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame706.jpg,HR26BQ5724
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame43.jpg,DL 1RTB0231
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame174.jpg,DL 8 CY 8204
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame65.jpg,HR26C09598
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame633.jpg,HR26BE0133
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame252.jpg,DL 12A 2177
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame596.jpg,DL 1N A 1003
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame856.jpg,UP 15 CN 5555
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame707.jpg,HR26BQ5724
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame524.jpg,HR26BE0133
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame738.jpg,HR51 U 1810
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame719.jpg,HR51 U 1810
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame13.jpg,DL 12 C 0327
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame546.jpg,HR 72 B 7402
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame814.jpg,UP 14 DJ 2433
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame829.jpg,HR51 U 1810
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame78.jpg,PB02DA9095
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame401.jpg,DL 1CV 0393
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame195.jpg,DL 4C AB 3560
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame501.jpg,DL 1CV 0393
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame624.jpg,HR 26 CU 4693
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame360.jpg,HR61 C 8673
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame91.jpg,DL 8 CT 8204
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame270.jpg,DL 1R TA 5069
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame275.jpg,DL 1R TA 5069
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame672.jpg,KA51MB0345
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame780.jpg,DL 3C AB 7825
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame4.jpg,DL 12 C 0327
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame226.jpg,HR26CB9669
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame229.jpg,HR 26 CH 0707
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame855.jpg,UP 15 CN 5555
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame543.jpg,HR 72 B 7402
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame171.jpg,DL 8 CY 8204
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame883.jpg,UP 15 CN 5555
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame459.jpg,DL 1CV 0393
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame292.jpg,DL9CAC6377
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame390.jpg,DL 10CS7303
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame600.jpg,DL 1N A 1003
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame69.jpg,HR26C09598
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame598.jpg,DL 1N A 1003
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame492.jpg,DL 1CV 0393
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame859.jpg,UP 15 CN 5555
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame173.jpg,DL 8 CY 8204
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame723.jpg,HR51 U 1810
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame465.jpg,DL 1CV 0393
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame58.jpg,HR26C09598
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame210.jpg,DL 4C AB 3560
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame339.jpg,DL10CS7303
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame382.jpg,DL 10CS7303
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame479.jpg,DL 1CV 0393
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame823.jpg,UP 14 DJ 2433
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame852.jpg,UP 15 CN 5555
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame49.jpg,HR26C09598
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame89.jpg,DL 8 CT 8204
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame110.jpg,DL 8 CT 8204
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame802.jpg,PB07AM0411
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame678.jpg,KA51MB0345
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame141.jpg,DL 9C Y 4835
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame451.jpg,DL 1CV 0393
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame801.jpg,PB07AM0411
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame40.jpg,DL 1RTB0231
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame392.jpg,DL 1CV 0393
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame488.jpg,DL 1CV 0393
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame502.jpg,DL 1CV 0393
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame394.jpg,DL 1CV 0393
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame319.jpg,HR 26 BF 2151
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame720.jpg,HR51 U 1810
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame278.jpg,DL 1R TA 5069
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame684.jpg,HR51 U 1810
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame0.jpg,
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame194.jpg,HR 26 CG 34448
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame206.jpg,DL 4C AB 3560
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame340.jpg,DL10CS7303
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame758.jpg,HR26DF4063
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame781.jpg,DL 3C AB 7825
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame437.jpg,DL 1CV 0393
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame785.jpg,DL 3C AB 7825
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame841.jpg,MH 14 CS 7807
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame630.jpg,DL2C Z 5393
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame67.jpg,HR26C09598
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame826.jpg,HR51 U 1810
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame746.jpg,DL3CAB7825
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame457.jpg,DL 1CV 0393
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame807.jpg,PB07AM0411
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame555.jpg,KA51MB0345
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame486.jpg,DL 1CV 0393
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame618.jpg,HR20AD1347
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame395.jpg,DL 1CV 0393
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame94.jpg,DL 8 CT 8204
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame156.jpg,DL 8 CY 8204
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame697.jpg,HR26BQ5724
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame616.jpg,HR20AD1347
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame610.jpg,HR20AD1347
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame884.jpg,UP 15 CN 5555
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame629.jpg,DL2C Z 5393
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame384.jpg,DL 10CS7303
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame186.jpg,HR 26 CG 34448
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame753.jpg,DL3CAB7825
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame804.jpg,PB07AM0411
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame514.jpg,HR26BE0133
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame380.jpg,DL 10CS7303
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame572.jpg,HR20AD1347
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame36.jpg,DL 1RTB0231
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame376.jpg,DL 10CS7303
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame50.jpg,HR26C09598
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame476.jpg,DL 1CV 0393
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame545.jpg,HR 72 B 7402
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame126.jpg,DL 3C AJ 4450
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame717.jpg,HR51 U 1810
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame251.jpg,DL 12A 2177
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame51.jpg,HR26C09598
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame553.jpg,KA51MB0345
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame331.jpg,DL10CS7303
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame481.jpg,DL 1CV 0393
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame763.jpg,HR26DF4063
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame419.jpg,HR 47 9693
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame645.jpg,HR26B12201
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame639.jpg,HR26BE0133
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame812.jpg,UP 14 DJ 2433
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame103.jpg,DL 8 CY 8204
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame307.jpg,HR51 BP 5341
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame123.jpg,DL 3C AJ 4450
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame157.jpg,DL 8 CY 8204
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame854.jpg,UP 15 CN 5555
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame304.jpg,DL9CAC6377
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame158.jpg,DL 8 CY 8204
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame155.jpg,DL 8 CY 8204
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame818.jpg,UP 14 DJ 2433
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame496.jpg,DL 1CV 0393
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame745.jpg,DL3CAB7825
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame10.jpg,DL 12 C 0327
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame744.jpg,DL3CAB7825
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame611.jpg,HR20AD1347
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame166.jpg,DL 8 CY 8204
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame250.jpg,
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame379.jpg,DL 10CS7303
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame623.jpg,HR 26 CU 4693
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame767.jpg,HR26DF4063
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame581.jpg,DL2C Z 5393
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame460.jpg,DL 1CV 0393
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame571.jpg,HR20AD1347
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame591.jpg,DL 1N A 1003
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame820.jpg,UP 14 DJ 2433
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame66.jpg,HR26C09598
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame701.jpg,HR26BQ5724
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame452.jpg,DL 1CV 0393
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame515.jpg,HR26BE0133
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame7.jpg,DL 12 C 0327
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame127.jpg,DL 3C AJ 4450
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame428.jpg,DL 1CV 0393
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame747.jpg,DL3CAB7825
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame838.jpg,MH 14 CS 7807
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame104.jpg,DL 8 CY 8204
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame768.jpg,HR26DF4063
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame756.jpg,HR26DF4063
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame776.jpg,DL 3C AB 7825
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame333.jpg,DL10CS7303
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame48.jpg,HR26C09598
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame550.jpg,KA51MB0345
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame803.jpg,PB07AM0411
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame162.jpg,DL 8 CY 8204
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame148.jpg,DL 9C Y 4835
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame518.jpg,HR26BE0133
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame371.jpg,DL 10CS7303
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame439.jpg,DL 1CV 0393
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame495.jpg,DL 1CV 0393
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame316.jpg,HR 26 BF 2151
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame612.jpg,HR20AD1347
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame669.jpg,KA51MB0345
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame393.jpg,DL 1CV 0393
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame632.jpg,HR26BE0133
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame248.jpg,MP07CB3200
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame1.jpg,DL 12 C 0327
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame764.jpg,HR26DF4063
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame742.jpg,DL3CAB7825
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame163.jpg,DL 8 CY 8204
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame403.jpg,DL 1CV 0393
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame71.jpg,HR26C09598
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame805.jpg,PB07AM0411
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame858.jpg,UP 15 CN 5555
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame92.jpg,DL 8 CT 8204
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame344.jpg,DL10CS7303
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame318.jpg,HR 26 BF 2151
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame670.jpg,KA51MB0345
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame330.jpg,DL10CS7303
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame80.jpg,PB02DA9095
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame827.jpg,HR51 U 1810
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame885.jpg,UP 15 CN 5555
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame784.jpg,DL 3C AB 7825
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame475.jpg,DL 1CV 0393
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame436.jpg,DL 1CV 0393
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame580.jpg,DL2C Z 5393
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame293.jpg,DL9CAC6377
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame365.jpg,DL 10CS7303
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame223.jpg,HR26CB9669
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame93.jpg,DL 8 CT 8204
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame709.jpg,HR26BQ5724
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame334.jpg,DL10CS7303
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame59.jpg,HR26C09598
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame461.jpg,DL 1CV 0393
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame626.jpg,HR 26 CU 4693
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame637.jpg,HR26BE0133
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame5.jpg,DL 12 C 0327
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame423.jpg,HR 47 9693
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame140.jpg,DL 9C Y 4835
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame447.jpg,DL 1CV 0393
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame839.jpg,MH 14 CS 7807
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame353.jpg,DL 10CS7303
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame18.jpg,HR 26 CC 7060
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame769.jpg,HR26DF4063
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame551.jpg,KA51MB0345
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame42.jpg,DL 1RTB0231
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame147.jpg,DL 9C Y 4835
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame433.jpg,DL 1CV 0393
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame289.jpg,HR 55 X 9791
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame402.jpg,DL 1CV 0393
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame337.jpg,DL10CS7303
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame279.jpg,DL 1R TA 5069
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame108.jpg,DL 8 CY 8204
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame500.jpg,DL 1CV 0393
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame269.jpg,DL 1R TA 5069
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame284.jpg,HR 55 X 9791
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame314.jpg,HR 26 BF 2151
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame121.jpg,
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame291.jpg,HR 55 X 9791
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame837.jpg,MH 14 CS 7807
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame70.jpg,HR26C09598
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame208.jpg,DL 4C AB 3560
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame731.jpg,HR51 U 1810
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame107.jpg,DL 8 CY 8204
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame722.jpg,HR51 U 1810
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame41.jpg,DL 1RTB0231
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame68.jpg,HR26C09598
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame615.jpg,HR20AD1347
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame478.jpg,DL 1CV 0393
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame324.jpg,DL10CS7303
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame834.jpg,HR51 U 1810
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame198.jpg,DL 4C AB 3560
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame299.jpg,DL9CAC6377
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame635.jpg,HR26BE0133
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame638.jpg,HR26BE0133
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame164.jpg,DL 8 CY 8204
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame552.jpg,KA51MB0345
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame544.jpg,HR 72 B 7402
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame441.jpg,DL 1CV 0393
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame273.jpg,DL 1R TA 5069
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame219.jpg,UP24 M 5566
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame643.jpg,HR26B12201
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame22.jpg,HR26CC7060
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame139.jpg,DL 9C Y 4835
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame646.jpg,HR26B12201
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame131.jpg,DL 3C AJ 4450
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame760.jpg,HR26DF4063
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame842.jpg,MH 14 CS 7807
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame737.jpg,HR51 U 1810
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame168.jpg,DL 8 CY 8204
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame833.jpg,HR51 U 1810
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame377.jpg,DL 10CS7303
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame332.jpg,DL10CS7303
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame383.jpg,DL 10CS7303
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame532.jpg,HR 72 B 7402
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame448.jpg,DL 1CV 0393
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame54.jpg,HR26C09598
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame739.jpg,HR51 U 1810
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame146.jpg,DL 9C Y 4835
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame2.jpg,DL 12 C 0327
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame122.jpg,DL 3C AJ 4450
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame444.jpg,DL 1CV 0393
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame455.jpg,DL 1CV 0393
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame199.jpg,DL 4C AB 3560
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame574.jpg,HR20AD1347
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame109.jpg,DL 8 CY 8204
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame369.jpg,DL 10CS7303
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame882.jpg,UP 15 CN 5555
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame389.jpg,DL 10CS7303
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame704.jpg,HR26BQ5724
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame277.jpg,DL 1R TA 5069
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame144.jpg,DL 9C Y 4835
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame748.jpg,DL3CAB7825
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame405.jpg,DL 1CV 0393
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame281.jpg,HR 55 X 9791
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame172.jpg,DL 8 CY 8204
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame863.jpg,UP 15 CN 5555
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame523.jpg,HR26BE0133
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame510.jpg,HR26BE0133
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame8.jpg,DL 12 C 0327
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame474.jpg,DL 1CV 0393
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame483.jpg,DL 1CV 0393
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame335.jpg,DL10CS7303
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame509.jpg,HR26BE0133
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame420.jpg,HR 47 9693
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame741.jpg,HR51AE0589
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame368.jpg,DL 10CS7303
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame511.jpg,HR26BE0133
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame245.jpg,MP07CB3200
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame462.jpg,DL 1CV 0393
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame228.jpg,HR26CB9669
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame679.jpg,KA51MB0345
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame100.jpg,DL 8 CY 8204
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame542.jpg,HR 72 B 7402
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame105.jpg,DL 8 CY 8204
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame45.jpg,DL 1RTB0231
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame23.jpg,HR26CC7060
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame397.jpg,DL 1CV 0393
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame613.jpg,HR20AD1347
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame227.jpg,HR26CB9669
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame244.jpg,MP07CB3200
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame434.jpg,DL 1CV 0393
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame196.jpg,DL 4C AB 3560
+/home/cogknit/experiments/dataset/final_dataset_crop_660/frame864.jpg,UP 15 CN 5555
