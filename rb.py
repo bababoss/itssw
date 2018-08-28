@@ -1,6 +1,7 @@
 """
-Auther : Suresh Saini
-Email: suresh@cogknit@com
+# @Time    : 28/08/2018
+# @Author  : Suresh Saini
+# @Site    :https://github.com/bharatsush/
 """
 import redis,os
 import time

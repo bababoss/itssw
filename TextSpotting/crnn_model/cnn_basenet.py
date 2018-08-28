@@ -1,8 +1,8 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-# @Time    : 17-9-18 下午3:59
-# @Author  : Luo Yao
-# @Site    : http://github.com/TJCVRS
+# @Time    : 28/08/2018
+# @Author  : Suresh Saini
+# @Site    :https://github.com/bharatsush/
 # @File    : cnn_basenet.py
 # @IDE: PyCharm Community Edition
 """

@@ -1,8 +1,8 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-# @Time    : 17-9-29 下午3:56
-# @Author  : Luo Yao
-# @Site    : http://github.com/TJCVRS
+# @Time    : 28/08/2018
+# @Author  : Suresh Saini
+# @Site    :https://github.com/bharatsush/
 # @File    : demo_shadownet.py
 # @IDE: PyCharm Community Edition
 """

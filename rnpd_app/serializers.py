@@ -1,7 +1,7 @@
 """t
-@Copyright : VisionRival pvt limited
-@Author :    Suresh Saini
-@Date    :   6th April 2018
+# @Time    : 28/08/2018
+# @Author  : Suresh Saini
+# @Site    :https://github.com/bharatsush/
 """
 from django.contrib.auth import update_session_auth_hash
 from rest_framework import serializers

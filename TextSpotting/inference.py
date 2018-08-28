@@ -1,9 +1,9 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 # @Time    : 
-# @Author  : Suresh
-# @Site    : 
-# @File    : demo_shadownet.py
+# @Time    : 28/08/2018
+# @Author  : Suresh Saini
+# @Site    :https://github.com/bharatsush/
 # @IDE: PyCharm Community Edition
 """
 Use shadow net to recognize the scene text

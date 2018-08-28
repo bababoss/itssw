@@ -1,7 +1,8 @@
 
 """
-Auther: Suresh
-email: suresh@cogknit.com
+# @Time    : 28/08/2018
+# @Author  : Suresh Saini
+# @Site    :https://github.com/bharatsush/
 """
 import cv2,time
 class _video_reader(object):

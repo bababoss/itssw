@@ -34,7 +34,7 @@ MAIL_USE_SSL = False
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
 EMAIL_HOST_USER = 'visionrival.ai@gmail.com'
-EMAIL_HOST_PASSWORD = '98878283!@Sush@!Sks'
+EMAIL_HOST_PASSWORD = '**********'
 
 
 # SECURITY WARNING: don't run with debug turned on in production!

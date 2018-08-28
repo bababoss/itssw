@@ -1,8 +1,8 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-# @Time    : 17-9-22 下午7:47
-# @Author  : Luo Yao
-# @Site    : http://github.com/TJCVRS
+# @Time    : 28/08/2018
+# @Author  : Suresh Saini
+# @Site    :https://github.com/bharatsush/
 # @File    : write_text_features.py
 # @IDE: PyCharm Community Edition
 """

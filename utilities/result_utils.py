@@ -1,8 +1,7 @@
 """
-@Copyright : Cogknit Semantics pvt limited
-@Author :    Suresh Saini
-@Email  :    suresh@cogknit.com
-@Date    :   12th April 2018
+# @Time    : 28/08/2018
+# @Author  : Suresh Saini
+# @Site    :https://github.com/bharatsush/
 """
 from django.shortcuts import render
 
