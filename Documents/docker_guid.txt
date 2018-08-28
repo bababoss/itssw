@@ -1,0 +1,18 @@
+object detection:
+
+in retail server
+
+1. cd /home/cogknit/accenture_projects/object_detection_mscoco
+
+2. sudo nvidia-docker-compose start
+
+
+scene_segmentation:
+
+in dev-server
+
+1. sudo docker ps -a
+
+2. get the container id
+
+3. sudo docker start 41f0c4209a81

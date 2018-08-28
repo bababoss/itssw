@@ -1,0 +1,15 @@
+django==2.0.3
+celery[redis]
+djangorestframework
+requests
+django-cors-headers
+passlib
+PyJWT
+Pillow
+django_redis
+decorator==4.0.11
+psycopg2-binary
+psycopg2
+webvtt-py
+logmatic-python
+psutil

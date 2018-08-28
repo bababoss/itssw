@@ -1,0 +1,73 @@
+Auther: ********Suresh SAini********************
+email: suresheca2012@gmail.com
+*********************************************************************************************
+
+http://35.230.6.179:8890/Documents/acc_apigateway/media/scenemedia/output.mkv
+
+#########################Senece scenesegmentation ##########
+
+curl -v -F media_file=@1.mkv http://192.168.0.63:8899/api/v1/scenesegmentation
+curl -v -F media_file=@1.mkv http://35.230.6.179:8990/api/v1/scenesegmentation
+
+************************************************************************************************************************
+
+pst json: scene
+curl -H "Content-Type: application/json" -X POST -d '{"media_file": "http://35.230.6.179:8890/media/uploaded_media/0fe995e691fa4329b45103532c62643a.mkv"}' http://192.168.0.63:8990/api/v1/scenesegmentation
+
+curl -H "Content-Type: application/json" -X POST -d '{"media_file": "http://35.230.6.179:8990/media/uploaded_media/f75eb5032759441e8eccc04ad5117651.mkv"}' http://35.230.6.179:8990/api/v1/scenesegmentation
+
+
+***********************************************************************************************************************
+                                        Object Deteation
+***********************************************************************************************************************
+
+curl -v -F media_file=@1.mkv http://192.168.0.63:8899/api/v1/objectdetection
+curl -v -F media_file=@1.mkv http://35.230.6.179:8990/api/v1/objectdetection
+
+pst json: object
+curl -H "Content-Type: application/json" -X POST -d '{"media_file": "http://35.230.6.179:8890/media/uploaded_media/0fe995e691fa4329b45103532c62643a.mkv"}' http://35.230.6.179:8990/api/v1/objectdetection
+
+curl -H "Content-Type: application/json" -X POST -d '{"media_file": "http://35.230.6.179:8890/media/uploaded_media/0fe995e691fa4329b45103532c62643a.mkv"}' http://192.168.0.63:8990/api/v1/objectdetection
+
+
+curl -v -F media_file=@1.mkv http://192.168.0.63:8990/api/v1/objectdetection
+
+
+
+***********************************************************************************************************************
+                                        Non specch separtion
+***********************************************************************************************************************
+
+curl -v -F media_file=@InferenceCheck1.wav http://192.168.0.63:8899/apapi/v1/media/nonspeech/label
+curl -v -F media_file=@InferenceCheck1.wav http://35.230.6.179:8990/api/v1/media/nonspeech/label
+
+************************************************************************************************************************
+
+pst json: scene
+curl -H "Content-Type: application/json" -X POST -d '{"media_file": "http://35.230.6.179:8990/media/uploaded_media/82751e1f937c4ecd92ce07c925112772.wav"}' http://192.168.0.63:8990/api/v1/media/nonspeech/label
+curl -H "Content-Type: application/json" -X POST -d '{"media_file": "http://35.230.6.179:8990/media/uploaded_media/82751e1f937c4ecd92ce07c925112772.wav"}' http://35.230.6.179:8990/api/v1/media/nonspeech/label
+
+
+
+
+
+
+
+
+
+
+
+
+
+curl -H "Content-Type: application/json" -X POST -d '{"media_file": "http://35.230.6.179:8890/media/uploaded_media/0fe995e691fa4329b45103532c62643a.mkv"}' http://192.168.0.63:8899/api/v1/scenesegmentation
+
+
+curl -H "Content-Type: application/json" -X POST -d '{"media_file": "http://35.230.6.179:8890/media/uploaded_media/0fe995e691fa4329b45103532c62643a.mkv"}' http://35.230.6.179:8990/api/v1/scenesegmentation
+
+{
+"media_file":"http://35.230.6.179:8890/Documents/acc_apigateway/media/scenemedia/output.mkv"
+}
+
+
+
+0fe995e691fa4329b45103532c62643a.mkv

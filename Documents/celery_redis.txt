@@ -1,0 +1,49 @@
+
+Auther : *************Suresh Saini******************************************************************8
+***************************************Install Guide*************************************************
+http://michal.karzynski.pl/blog/2014/05/18/setting-up-an-asynchronous-task-queue-for-django-using-celery-redis/
+
+celery --app=acc_apigateway.celery:app worker --loglevel=INFO
+
+
+
+Edir this file*********/etc/supervisor/conf.d/hello-celery.conf**********************************************
+
+[program:acc_apigateway]
+command=/home/cogknit/.virtualenvs/cogknitEnv/bin/celery --app=acc_apigateway.celery:app worker --loglevel=INFO
+directory=/home/cogknit/PycharmProjects/acc_apigateway
+user=cogknit
+numprocs=1
+stdout_logfile=/home/cogknit/PycharmProjects/acc_apigateway/logs/celery-worker.log
+stderr_logfile=/home/cogknit/PycharmProjects/acc_apigateway/logs/celery-worker.log
+autostart=true
+autorestart=true
+startsecs=10
+
+; Need to wait for currently executing tasks to finish at shutdown.
+; Increase this if you have very long running tasks.
+stopwaitsecs = 600
+
+; When resorting to send SIGKILL to the program to terminate it
+; send SIGKILL to its whole process group instead,
+; taking care of its children as well.
+killasgroup=true
+
+; if rabbitmq is supervised, set its priority higher
+; so it starts first
+priority=998
+
+
+sudo supervisorctl reread
+sudo supervisorctl update
+
+sudo supervisorctl status acc_apigateway
+
+
+*************************Inspecting worker tasks************************
+celery --app=acc_apigateway.celery:app status
+celery --app=acc_apigateway.celery:app control enable_events
+celery --app=acc_apigateway.celery:app events
+
+
+
